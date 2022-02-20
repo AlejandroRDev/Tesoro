@@ -1,0 +1,13 @@
+body {
+    background-image: url('https://ae01.alicdn.com/kf/HTB1xxBCRpXXXXa7aXXXq6xXFXXXM/5x7-pies-Piratas-del-Caribe-monedas-de-oro-mapa-del-tesoro-personalizado-foto-estudio-fondo-de.jpg');
+    background-size: cover;
+}
+
+.container {
+    background-image: url('https://ae01.alicdn.com/kf/HTB1xxBCRpXXXXa7aXXXq6xXFXXXM/5x7-pies-Piratas-del-Caribe-monedas-de-oro-mapa-del-tesoro-personalizado-foto-estudio-fondo-de.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
